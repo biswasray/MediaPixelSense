@@ -1,0 +1,9 @@
+out/
+.vs/
+node_modules/
+web/dist/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+workspace/*
+!workspace/.gitkeep
